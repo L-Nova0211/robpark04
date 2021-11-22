@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robinsonstewart
-- 👀 I’m interested in developing web site
+- 👀 I’m interested in developing web site (In fact, I am Full-Stack Developer |SEO)
 - 🌱 I’m currently learning Blockchain
 
 <!---
