@@ -52,7 +52,21 @@
     </tr>   
 </table>
 
-- NFT Marketplaces
+- DeFi (Staking, Farming)
+<table>
+    <thead align="center">
+        <tr>
+            <td>LibreDefi</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://app.libredefi.io">
+                <img src="https://user-images.githubusercontent.com/94480152/166793376-7a8ed1a7-9cf3-4523-8ae9-eba12c69f81f.png?raw=true" width="200">
+            </a>
+        </td>   
+    </tr>
+</table>
 <table>
     <thead align="center">
         <tr>
@@ -67,7 +81,6 @@
         </td>   
     </tr>
 </table>
-
 - DEX
 <table>
     <thead align="center">
