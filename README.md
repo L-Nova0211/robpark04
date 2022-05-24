@@ -1,5 +1,4 @@
 <h1 align="center" dir="auto">👋 Hi, I’m @Rob Park</h1>
-<h4 align="center" dir="auto">Blockchain Full Stack developer</h4>
 
 <p align="center">
 <!--   <a href="mailto:live:.cid.bd5df81ce709e38c">
@@ -14,7 +13,17 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/ExpertBC/ExpertBC/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <h3 align="center">A Principal Blockchain Engineer</h3>
+
+- 😎 Interested in contributing expertise in web and blockchain development
+
+- 👯 Looking to collaborate on **Innovative Projects**
+
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+
+- 📚 Love reading books on personal development & financial literacy. 
+
+- ⚡ Quotes: *What you do today can improve all of your tomorrows.*
 </p>
   
 ### DeFi Experiences
