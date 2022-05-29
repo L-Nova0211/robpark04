@@ -74,10 +74,12 @@
             <a href="http://arc.market">
                 <img src="https://user-images.githubusercontent.com/94480152/170895706-cf1fa20f-50b7-4401-88a7-714a4c9bb786.jpg" width="200">
             </a>
+        </td> 
+        <td>
             <a href="https://memenft-test-market.netlify.app/">
                 <img src="https://user-images.githubusercontent.com/94480152/170895818-68b1faa8-968b-4dbd-aa83-815e0f6d3c1c.png" width="200">
             </a>
-        </td>   
+        </td>
     </tr>
 </table>
 
